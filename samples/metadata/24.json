@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #24",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/24.png",
+  "edition": 24,
+  "dna": "63297e27a363c6e04d7db78877bb653c8e869fdf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Polka"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flower Crown"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Lollipop"
+    }
+  ],
+  "rarity_score": 52.74,
+  "rarity_rank": 12
+}

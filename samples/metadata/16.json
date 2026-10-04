@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #16",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/16.png",
+  "edition": 16,
+  "dna": "af73425a086ef3f049c57d22f4ea19e9aac80dfc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Star Wand"
+    }
+  ],
+  "rarity_score": 48.76,
+  "rarity_rank": 21
+}

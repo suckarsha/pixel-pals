@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #46",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/46.png",
+  "edition": 46,
+  "dna": "7819f8776b72b09793df297872a61a05a90a498c",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Items",
+      "value": "None"
+    }
+  ],
+  "rarity_score": 38.04,
+  "rarity_rank": 43
+}

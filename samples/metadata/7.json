@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #7",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/7.png",
+  "edition": 7,
+  "dna": "01222c317d63a5c238ca58676f7da99410a45279",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tee Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Balloon"
+    }
+  ],
+  "rarity_score": 50.44,
+  "rarity_rank": 16
+}

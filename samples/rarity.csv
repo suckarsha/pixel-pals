@@ -1,0 +1,55 @@
+group,trait,target_pct,count,actual_pct
+Background,Sky,20.0,11,22.0
+Background,Mint,20.0,9,18.0
+Background,Peach,18.0,12,24.0
+Background,Lilac,18.0,9,18.0
+Background,Polka,12.0,5,10.0
+Background,Sunset,8.0,3,6.0
+Background,Night,4.0,1,2.0
+Body,Cream,24.0,9,18.0
+Body,Honey,22.0,14,28.0
+Body,Mint,18.0,8,16.0
+Body,Blue,16.0,7,14.0
+Body,Pink,12.0,8,16.0
+Body,Charcoal,6.0,3,6.0
+Body,Gold,2.0,1,2.0
+Clothes,Tee Red,22.0,9,18.0
+Clothes,Tee Green,22.0,14,28.0
+Clothes,Striped,18.0,10,20.0
+Clothes,Hoodie,15.0,5,10.0
+Clothes,Overalls,12.0,4,8.0
+Clothes,Scarf,8.0,7,14.0
+Clothes,Tuxedo,3.0,1,2.0
+Mouth,Smile,30.0,10,20.0
+Mouth,Open,20.0,13,26.0
+Mouth,Flat,18.0,10,20.0
+Mouth,Cat,14.0,8,16.0
+Mouth,Tongue,12.0,8,16.0
+Mouth,Whistle,6.0,1,2.0
+Eyes,Dot,32.0,13,26.0
+Eyes,Happy,24.0,14,28.0
+Eyes,Sleepy,16.0,8,16.0
+Eyes,Wink,14.0,6,12.0
+Eyes,Wide,10.0,6,12.0
+Eyes,Star,4.0,3,6.0
+Face,None,45.0,17,34.0
+Face,Blush,18.0,15,30.0
+Face,Freckles,12.0,5,10.0
+Face,Glasses,10.0,7,14.0
+Face,Bandage,7.0,2,4.0
+Face,Sunglasses,5.0,4,8.0
+Face,Eye Patch,3.0,0,0.0
+Head,None,30.0,15,30.0
+Head,Beanie,18.0,11,22.0
+Head,Bow,15.0,5,10.0
+Head,Party Hat,14.0,11,22.0
+Head,Flower Crown,11.0,7,14.0
+Head,Propeller Cap,8.0,0,0.0
+Head,Crown,4.0,1,2.0
+Items,None,40.0,18,36.0
+Items,Balloon,15.0,8,16.0
+Items,Flower,14.0,11,22.0
+Items,Lollipop,12.0,3,6.0
+Items,Book,10.0,6,12.0
+Items,Star Wand,6.0,4,8.0
+Items,Umbrella,3.0,0,0.0

@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #33",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/33.png",
+  "edition": 33,
+  "dna": "2a166c4eb5a87ffcd38db10d02a420067cec1a84",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Book"
+    }
+  ],
+  "rarity_score": 46.39,
+  "rarity_rank": 23
+}

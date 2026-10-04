@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #17",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/17.png",
+  "edition": 17,
+  "dna": "db5297b9dea81f491de1af9800ede1bdf4faa22f",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Polka"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tee Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Items",
+      "value": "None"
+    }
+  ],
+  "rarity_score": 41.45,
+  "rarity_rank": 36
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #48",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/48.png",
+  "edition": 48,
+  "dna": "89ad142cd718cfee83ed40f3a8c2e5bc40b17e18",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Balloon"
+    }
+  ],
+  "rarity_score": 42.78,
+  "rarity_rank": 33
+}

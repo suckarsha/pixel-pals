@@ -1,0 +1,154 @@
+{
+  "collection_name": "Pixel Pal",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "size": 1000,
+  "layers_dir": "layers",
+  "layer_order": [
+    "Background",
+    "Body",
+    "Clothes",
+    "Mouth",
+    "Eyes",
+    "Face",
+    "Head",
+    "Items"
+  ],
+  "overlays": [
+    "Logo/Logo.png"
+  ],
+  "traits": {
+    "Background": {
+      "Sky": 20,
+      "Mint": 20,
+      "Peach": 18,
+      "Lilac": 18,
+      "Polka": 12,
+      "Sunset": 8,
+      "Night": 4
+    },
+    "Body": {
+      "Cream": 24,
+      "Honey": 22,
+      "Mint": 18,
+      "Blue": 16,
+      "Pink": 12,
+      "Charcoal": 6,
+      "Gold": 2
+    },
+    "Clothes": {
+      "Tee Red": 22,
+      "Tee Green": 22,
+      "Striped": 18,
+      "Hoodie": 15,
+      "Overalls": 12,
+      "Scarf": 8,
+      "Tuxedo": 3
+    },
+    "Mouth": {
+      "Smile": 30,
+      "Open": 20,
+      "Flat": 18,
+      "Cat": 14,
+      "Tongue": 12,
+      "Whistle": 6
+    },
+    "Eyes": {
+      "Dot": 32,
+      "Happy": 24,
+      "Sleepy": 16,
+      "Wink": 14,
+      "Wide": 10,
+      "Star": 4
+    },
+    "Face": {
+      "None": 45,
+      "Blush": 18,
+      "Freckles": 12,
+      "Glasses": 10,
+      "Bandage": 7,
+      "Sunglasses": 5,
+      "Eye Patch": 3
+    },
+    "Head": {
+      "None": 30,
+      "Beanie": 18,
+      "Bow": 15,
+      "Party Hat": 14,
+      "Flower Crown": 11,
+      "Propeller Cap": 8,
+      "Crown": 4
+    },
+    "Items": {
+      "None": 40,
+      "Balloon": 15,
+      "Flower": 14,
+      "Lollipop": 12,
+      "Book": 10,
+      "Star Wand": 6,
+      "Umbrella": 3
+    }
+  },
+  "incompatible": [
+    {
+      "reason": "Sunglasses would hide the rare eyes",
+      "if": {
+        "Face": "Sunglasses"
+      },
+      "not": {
+        "Eyes": [
+          "Star",
+          "Wide"
+        ]
+      }
+    },
+    {
+      "reason": "Eye patch covers the winking eye",
+      "if": {
+        "Face": "Eye Patch"
+      },
+      "not": {
+        "Eyes": [
+          "Wink"
+        ]
+      }
+    },
+    {
+      "reason": "Umbrella canopy overlaps headwear",
+      "if": {
+        "Items": "Umbrella"
+      },
+      "not": {
+        "Head": [
+          "Party Hat",
+          "Propeller Cap",
+          "Crown",
+          "Beanie",
+          "Bow",
+          "Flower Crown"
+        ]
+      }
+    },
+    {
+      "reason": "Cannot whistle with a lollipop",
+      "if": {
+        "Mouth": "Whistle"
+      },
+      "not": {
+        "Items": [
+          "Lollipop"
+        ]
+      }
+    },
+    {
+      "reason": "Dark body is lost on the dark background",
+      "if": {
+        "Body": "Charcoal"
+      },
+      "not": {
+        "Background": [
+          "Night"
+        ]
+      }
+    }
+  ]
+}

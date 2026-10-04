@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #41",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/41.png",
+  "edition": 41,
+  "dna": "fc7091b9d47931a279ae2a092cf864144c038540",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tee Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flower Crown"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Lollipop"
+    }
+  ],
+  "rarity_score": 61.89,
+  "rarity_rank": 9
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #31",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/31.png",
+  "edition": 31,
+  "dna": "8c6bb0d70987e985f449cc8fc81800bd68131515",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Honey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tee Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Book"
+    }
+  ],
+  "rarity_score": 84.19,
+  "rarity_rank": 5
+}

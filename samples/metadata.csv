@@ -1,0 +1,51 @@
+edition,name,file,Background,Body,Clothes,Mouth,Eyes,Face,Head,Items,rarity_score,rarity_rank,dna
+1,Pixel Pal #1,1.png,Sky,Mint,Striped,Tongue,Dot,None,Bow,Flower,43.38,31,3b97ec825cd3cabdfef9d6091d6ec20cd3bccc49
+2,Pixel Pal #2,2.png,Polka,Mint,Hoodie,Cat,Wink,Blush,None,Flower,52.05,13,94d752755202618555c2836a3b782f06c465134a
+3,Pixel Pal #3,3.png,Sky,Pink,Striped,Cat,Sleepy,Freckles,None,None,44.41,26,576e0cff36cd6a59864325605901c3d3b46a16eb
+4,Pixel Pal #4,4.png,Mint,Honey,Overalls,Cat,Sleepy,None,Party Hat,None,44.39,27,f8e68a88dd995e0ad6ac481e750f14bcfc1384dd
+5,Pixel Pal #5,5.png,Peach,Honey,Striped,Open,Dot,Blush,Party Hat,Flower,32.85,48,9eed617d232ec135eacbee477a44d2b059c0939d
+6,Pixel Pal #6,6.png,Peach,Pink,Tee Green,Open,Wide,Blush,Bow,None,42.28,35,b93d0ed18d9ca322432ac56605569e6f226c1d59
+7,Pixel Pal #7,7.png,Mint,Cream,Tee Red,Cat,Wide,None,Bow,Balloon,50.44,16,01222c317d63a5c238ca58676f7da99410a45279
+8,Pixel Pal #8,8.png,Peach,Mint,Hoodie,Open,Wink,Blush,Beanie,Book,48.81,20,ff659a981ed462e7f70366bd9f6853cd4cdecbb8
+9,Pixel Pal #9,9.png,Peach,Honey,Tee Green,Smile,Sleepy,Blush,Beanie,Balloon,36.69,44,ccac27a1ccb9695eeff2c4874b4e4cb0277f3292
+10,Pixel Pal #10,10.png,Peach,Charcoal,Tee Green,Open,Happy,Glasses,Flower Crown,Flower,50.65,15,c8ad3e503761fe06136793621a11da355c8f0aff
+11,Pixel Pal #11,11.png,Sunset,Pink,Tee Green,Tongue,Dot,Freckles,Flower Crown,Balloon,59.98,10,c056292e60aca9bb003af746cc63c7f49fa46983
+12,Pixel Pal #12,12.png,Peach,Charcoal,Scarf,Tongue,Happy,None,None,Balloon,50.32,17,b30cadd8f2389c1f15be2a621dad15d3eb1a76f2
+13,Pixel Pal #13,13.png,Sky,Blue,Tee Green,Open,Dot,None,Bow,Star Wand,48.39,22,0fe2df09d548a3a17149c242ac7f85988aa0ea12
+14,Pixel Pal #14,14.png,Sky,Blue,Tee Green,Flat,Wink,Sunglasses,Party Hat,Flower,50.18,18,20c06c28d12370bff74e0fa43c3997daa763ee74
+15,Pixel Pal #15,15.png,Sky,Honey,Striped,Cat,Wide,Blush,Party Hat,None,38.36,41,cb2cc329f21ddea52bbf96cf120bd0ef030aec7c
+16,Pixel Pal #16,16.png,Mint,Mint,Scarf,Tongue,Happy,None,Party Hat,Star Wand,48.76,21,af73425a086ef3f049c57d22f4ea19e9aac80dfc
+17,Pixel Pal #17,17.png,Polka,Pink,Tee Green,Open,Wink,Blush,None,None,41.45,36,db5297b9dea81f491de1af9800ede1bdf4faa22f
+18,Pixel Pal #18,18.png,Sky,Pink,Tee Red,Open,Happy,Glasses,None,Balloon,40.49,38,72e3e91f3b3958e0899f3eaef52847a8bf7ee904
+19,Pixel Pal #19,19.png,Mint,Honey,Tee Green,Smile,Wide,Blush,Flower Crown,None,39.29,40,3fb17fee80ccb3138fec54bb741e2727048d15b4
+20,Pixel Pal #20,20.png,Peach,Honey,Tee Green,Flat,Sleepy,None,Beanie,None,32.82,49,4fcdd9ef3bf13fbae95e90d0088016ca1995af0f
+21,Pixel Pal #21,21.png,Sunset,Cream,Striped,Tongue,Happy,Glasses,None,Lollipop,64.19,6,4513c49a6ab65bb5878d07eb82e1421aec0ea4ad
+22,Pixel Pal #22,22.png,Polka,Cream,Striped,Cat,Happy,Sunglasses,None,Book,54.54,11,3a86d33b1dd7d3f337cbae6c85eeab35f6040c66
+23,Pixel Pal #23,23.png,Mint,Honey,Tee Green,Smile,Dot,None,None,Balloon,34.07,47,07966d47d5ad46af837b89e46f80bfcffeac2fda
+24,Pixel Pal #24,24.png,Polka,Honey,Striped,Open,Happy,None,Flower Crown,Lollipop,52.74,12,63297e27a363c6e04d7db78877bb653c8e869fdf
+25,Pixel Pal #25,25.png,Polka,Blue,Scarf,Open,Dot,Blush,Bow,Balloon,51.56,14,9fcd5a664c31f298b0369ab6f8070056355ce0b7
+26,Pixel Pal #26,26.png,Sky,Blue,Striped,Flat,Dot,None,None,Flower,36.35,45,f3172366eb249a47092162d55df8edf2ce7c4c56
+27,Pixel Pal #27,27.png,Sky,Honey,Scarf,Smile,Sleepy,Glasses,Party Hat,None,40.98,37,ffaa90ce3e7b722b54b391cd015cd56544d7074c
+28,Pixel Pal #28,28.png,Lilac,Mint,Tee Green,Tongue,Dot,None,None,None,34.53,46,d308aef42f48d8c9795aaa79e4c4fab6ab52cfbb
+29,Pixel Pal #29,29.png,Peach,Pink,Overalls,Open,Dot,None,None,None,39.66,39,fc7d5f84ade8e6bc45d36964dae4e8df53896100
+30,Pixel Pal #30,30.png,Lilac,Mint,Scarf,Open,Wink,Blush,Party Hat,Flower,43.55,30,b0f923f89c60689dc54f4b6ff0b79966700bc219
+31,Pixel Pal #31,31.png,Sunset,Honey,Tee Red,Open,Star,Bandage,Party Hat,Book,84.19,5,8c6bb0d70987e985f449cc8fc81800bd68131515
+32,Pixel Pal #32,32.png,Lilac,Charcoal,Tee Green,Whistle,Happy,Freckles,Beanie,None,96.69,3,42c20f8c4484542202322b5008b2e3d06f61a3e5
+33,Pixel Pal #33,33.png,Lilac,Honey,Scarf,Cat,Dot,Glasses,Beanie,Book,46.39,23,2a166c4eb5a87ffcd38db10d02a420067cec1a84
+34,Pixel Pal #34,34.png,Peach,Honey,Striped,Cat,Dot,Blush,None,None,32.28,50,dad420f97525254e6e955c98777670c6c0a47d53
+35,Pixel Pal #35,35.png,Mint,Blue,Hoodie,Smile,Sleepy,None,Beanie,None,44.21,29,6f8b83535dc3f4d62ae7099e192b30b1693a6b36
+36,Pixel Pal #36,36.png,Peach,Cream,Tee Red,Flat,Sleepy,Sunglasses,Party Hat,None,46.35,24,b2682587a417c667f3409e0d0cc15febdf75562a
+37,Pixel Pal #37,37.png,Mint,Cream,Tee Red,Smile,Happy,None,Beanie,Star Wand,45.22,25,75f6af35524809708b68b4d181553f6d32201613
+38,Pixel Pal #38,38.png,Lilac,Pink,Striped,Flat,Star,Blush,None,Flower,49.68,19,830d7294721b6a8e79856c78ed653a2921857064
+39,Pixel Pal #39,39.png,Lilac,Honey,Hoodie,Smile,Star,Blush,Crown,Flower,98.67,2,32c5611e71716f2b56ba82c26be62dfe9a74061d
+40,Pixel Pal #40,40.png,Mint,Cream,Tee Green,Flat,Happy,Blush,Flower Crown,Flower,38.28,42,b9837a6486c383722beab7dbcb2f554174170ead
+41,Pixel Pal #41,41.png,Sky,Mint,Tee Red,Tongue,Wide,Glasses,Flower Crown,Lollipop,61.89,9,fc7091b9d47931a279ae2a092cf864144c038540
+42,Pixel Pal #42,42.png,Sky,Cream,Overalls,Flat,Sleepy,Sunglasses,Beanie,Star Wand,63.4,7,f4fbe9df66fc5690547b0af1e63374666e49b27c
+43,Pixel Pal #43,43.png,Peach,Blue,Tee Red,Flat,Dot,Freckles,Beanie,None,43.03,32,42e553f23c53cc4db5734f109303117d3bd3a1a3
+44,Pixel Pal #44,44.png,Sky,Blue,Tee Red,Flat,Happy,None,Flower Crown,Book,44.23,28,d05572f0ea987f09fa48b5c25af710eeb27b7c88
+45,Pixel Pal #45,45.png,Night,Gold,Tee Red,Flat,Dot,Blush,None,Book,129.4,1,15378ce8f63a10ebdf684421c7f3fa619f3ecd71
+46,Pixel Pal #46,46.png,Peach,Pink,Hoodie,Smile,Happy,None,None,None,38.04,43,7819f8776b72b09793df297872a61a05a90a498c
+47,Pixel Pal #47,47.png,Lilac,Cream,Tuxedo,Open,Wide,Freckles,Beanie,Flower,92.38,4,563b650dccb45ff106bc3eb713b69c3d49445b95
+48,Pixel Pal #48,48.png,Lilac,Honey,Scarf,Smile,Happy,Glasses,Party Hat,Balloon,42.78,33,89ad142cd718cfee83ed40f3a8c2e5bc40b17e18
+49,Pixel Pal #49,49.png,Lilac,Cream,Overalls,Smile,Happy,None,Party Hat,None,42.45,34,eaa1b12852efeab58a855061793a669994e9822e
+50,Pixel Pal #50,50.png,Mint,Mint,Tee Green,Tongue,Wink,Bandage,Beanie,None,62.28,8,fa70b6632ea5ab18549fb029d46da8fb1d971ffb

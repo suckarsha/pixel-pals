@@ -1,0 +1,2152 @@
+[
+ {
+  "name": "Pixel Pal #1",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/1.png",
+  "edition": 1,
+  "dna": "3b97ec825cd3cabdfef9d6091d6ec20cd3bccc49",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Bow"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 43.38,
+  "rarity_rank": 31
+ },
+ {
+  "name": "Pixel Pal #2",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/2.png",
+  "edition": 2,
+  "dna": "94d752755202618555c2836a3b782f06c465134a",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Polka"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Hoodie"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wink"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 52.05,
+  "rarity_rank": 13
+ },
+ {
+  "name": "Pixel Pal #3",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/3.png",
+  "edition": 3,
+  "dna": "576e0cff36cd6a59864325605901c3d3b46a16eb",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Freckles"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 44.41,
+  "rarity_rank": 26
+ },
+ {
+  "name": "Pixel Pal #4",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/4.png",
+  "edition": 4,
+  "dna": "f8e68a88dd995e0ad6ac481e750f14bcfc1384dd",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Overalls"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 44.39,
+  "rarity_rank": 27
+ },
+ {
+  "name": "Pixel Pal #5",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/5.png",
+  "edition": 5,
+  "dna": "9eed617d232ec135eacbee477a44d2b059c0939d",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 32.85,
+  "rarity_rank": 48
+ },
+ {
+  "name": "Pixel Pal #6",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/6.png",
+  "edition": 6,
+  "dna": "b93d0ed18d9ca322432ac56605569e6f226c1d59",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wide"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Bow"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 42.28,
+  "rarity_rank": 35
+ },
+ {
+  "name": "Pixel Pal #7",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/7.png",
+  "edition": 7,
+  "dna": "01222c317d63a5c238ca58676f7da99410a45279",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wide"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Bow"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 50.44,
+  "rarity_rank": 16
+ },
+ {
+  "name": "Pixel Pal #8",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/8.png",
+  "edition": 8,
+  "dna": "ff659a981ed462e7f70366bd9f6853cd4cdecbb8",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Hoodie"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wink"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Book"
+   }
+  ],
+  "rarity_score": 48.81,
+  "rarity_rank": 20
+ },
+ {
+  "name": "Pixel Pal #9",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/9.png",
+  "edition": 9,
+  "dna": "ccac27a1ccb9695eeff2c4874b4e4cb0277f3292",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 36.69,
+  "rarity_rank": 44
+ },
+ {
+  "name": "Pixel Pal #10",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/10.png",
+  "edition": 10,
+  "dna": "c8ad3e503761fe06136793621a11da355c8f0aff",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Charcoal"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Glasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Flower Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 50.65,
+  "rarity_rank": 15
+ },
+ {
+  "name": "Pixel Pal #11",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/11.png",
+  "edition": 11,
+  "dna": "c056292e60aca9bb003af746cc63c7f49fa46983",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sunset"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Freckles"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Flower Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 59.98,
+  "rarity_rank": 10
+ },
+ {
+  "name": "Pixel Pal #12",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/12.png",
+  "edition": 12,
+  "dna": "b30cadd8f2389c1f15be2a621dad15d3eb1a76f2",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Charcoal"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Scarf"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 50.32,
+  "rarity_rank": 17
+ },
+ {
+  "name": "Pixel Pal #13",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/13.png",
+  "edition": 13,
+  "dna": "0fe2df09d548a3a17149c242ac7f85988aa0ea12",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Blue"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Bow"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Star Wand"
+   }
+  ],
+  "rarity_score": 48.39,
+  "rarity_rank": 22
+ },
+ {
+  "name": "Pixel Pal #14",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/14.png",
+  "edition": 14,
+  "dna": "20c06c28d12370bff74e0fa43c3997daa763ee74",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Blue"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wink"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Sunglasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 50.18,
+  "rarity_rank": 18
+ },
+ {
+  "name": "Pixel Pal #15",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/15.png",
+  "edition": 15,
+  "dna": "cb2cc329f21ddea52bbf96cf120bd0ef030aec7c",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wide"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 38.36,
+  "rarity_rank": 41
+ },
+ {
+  "name": "Pixel Pal #16",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/16.png",
+  "edition": 16,
+  "dna": "af73425a086ef3f049c57d22f4ea19e9aac80dfc",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Scarf"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Star Wand"
+   }
+  ],
+  "rarity_score": 48.76,
+  "rarity_rank": 21
+ },
+ {
+  "name": "Pixel Pal #17",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/17.png",
+  "edition": 17,
+  "dna": "db5297b9dea81f491de1af9800ede1bdf4faa22f",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Polka"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wink"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 41.45,
+  "rarity_rank": 36
+ },
+ {
+  "name": "Pixel Pal #18",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/18.png",
+  "edition": 18,
+  "dna": "72e3e91f3b3958e0899f3eaef52847a8bf7ee904",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Glasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 40.49,
+  "rarity_rank": 38
+ },
+ {
+  "name": "Pixel Pal #19",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/19.png",
+  "edition": 19,
+  "dna": "3fb17fee80ccb3138fec54bb741e2727048d15b4",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wide"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Flower Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 39.29,
+  "rarity_rank": 40
+ },
+ {
+  "name": "Pixel Pal #20",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/20.png",
+  "edition": 20,
+  "dna": "4fcdd9ef3bf13fbae95e90d0088016ca1995af0f",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 32.82,
+  "rarity_rank": 49
+ },
+ {
+  "name": "Pixel Pal #21",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/21.png",
+  "edition": 21,
+  "dna": "4513c49a6ab65bb5878d07eb82e1421aec0ea4ad",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sunset"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Glasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Lollipop"
+   }
+  ],
+  "rarity_score": 64.19,
+  "rarity_rank": 6
+ },
+ {
+  "name": "Pixel Pal #22",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/22.png",
+  "edition": 22,
+  "dna": "3a86d33b1dd7d3f337cbae6c85eeab35f6040c66",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Polka"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Sunglasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Book"
+   }
+  ],
+  "rarity_score": 54.54,
+  "rarity_rank": 11
+ },
+ {
+  "name": "Pixel Pal #23",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/23.png",
+  "edition": 23,
+  "dna": "07966d47d5ad46af837b89e46f80bfcffeac2fda",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 34.07,
+  "rarity_rank": 47
+ },
+ {
+  "name": "Pixel Pal #24",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/24.png",
+  "edition": 24,
+  "dna": "63297e27a363c6e04d7db78877bb653c8e869fdf",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Polka"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Flower Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Lollipop"
+   }
+  ],
+  "rarity_score": 52.74,
+  "rarity_rank": 12
+ },
+ {
+  "name": "Pixel Pal #25",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/25.png",
+  "edition": 25,
+  "dna": "9fcd5a664c31f298b0369ab6f8070056355ce0b7",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Polka"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Blue"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Scarf"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Bow"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 51.56,
+  "rarity_rank": 14
+ },
+ {
+  "name": "Pixel Pal #26",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/26.png",
+  "edition": 26,
+  "dna": "f3172366eb249a47092162d55df8edf2ce7c4c56",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Blue"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 36.35,
+  "rarity_rank": 45
+ },
+ {
+  "name": "Pixel Pal #27",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/27.png",
+  "edition": 27,
+  "dna": "ffaa90ce3e7b722b54b391cd015cd56544d7074c",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Scarf"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Glasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 40.98,
+  "rarity_rank": 37
+ },
+ {
+  "name": "Pixel Pal #28",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/28.png",
+  "edition": 28,
+  "dna": "d308aef42f48d8c9795aaa79e4c4fab6ab52cfbb",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 34.53,
+  "rarity_rank": 46
+ },
+ {
+  "name": "Pixel Pal #29",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/29.png",
+  "edition": 29,
+  "dna": "fc7d5f84ade8e6bc45d36964dae4e8df53896100",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Overalls"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 39.66,
+  "rarity_rank": 39
+ },
+ {
+  "name": "Pixel Pal #30",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/30.png",
+  "edition": 30,
+  "dna": "b0f923f89c60689dc54f4b6ff0b79966700bc219",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Scarf"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wink"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 43.55,
+  "rarity_rank": 30
+ },
+ {
+  "name": "Pixel Pal #31",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/31.png",
+  "edition": 31,
+  "dna": "8c6bb0d70987e985f449cc8fc81800bd68131515",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sunset"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Star"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Bandage"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Book"
+   }
+  ],
+  "rarity_score": 84.19,
+  "rarity_rank": 5
+ },
+ {
+  "name": "Pixel Pal #32",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/32.png",
+  "edition": 32,
+  "dna": "42c20f8c4484542202322b5008b2e3d06f61a3e5",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Charcoal"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Whistle"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Freckles"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 96.69,
+  "rarity_rank": 3
+ },
+ {
+  "name": "Pixel Pal #33",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/33.png",
+  "edition": 33,
+  "dna": "2a166c4eb5a87ffcd38db10d02a420067cec1a84",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Scarf"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Glasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Book"
+   }
+  ],
+  "rarity_score": 46.39,
+  "rarity_rank": 23
+ },
+ {
+  "name": "Pixel Pal #34",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/34.png",
+  "edition": 34,
+  "dna": "dad420f97525254e6e955c98777670c6c0a47d53",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Cat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 32.28,
+  "rarity_rank": 50
+ },
+ {
+  "name": "Pixel Pal #35",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/35.png",
+  "edition": 35,
+  "dna": "6f8b83535dc3f4d62ae7099e192b30b1693a6b36",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Blue"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Hoodie"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 44.21,
+  "rarity_rank": 29
+ },
+ {
+  "name": "Pixel Pal #36",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/36.png",
+  "edition": 36,
+  "dna": "b2682587a417c667f3409e0d0cc15febdf75562a",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Sunglasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 46.35,
+  "rarity_rank": 24
+ },
+ {
+  "name": "Pixel Pal #37",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/37.png",
+  "edition": 37,
+  "dna": "75f6af35524809708b68b4d181553f6d32201613",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Star Wand"
+   }
+  ],
+  "rarity_score": 45.22,
+  "rarity_rank": 25
+ },
+ {
+  "name": "Pixel Pal #38",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/38.png",
+  "edition": 38,
+  "dna": "830d7294721b6a8e79856c78ed653a2921857064",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Striped"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Star"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 49.68,
+  "rarity_rank": 19
+ },
+ {
+  "name": "Pixel Pal #39",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/39.png",
+  "edition": 39,
+  "dna": "32c5611e71716f2b56ba82c26be62dfe9a74061d",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Hoodie"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Star"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 98.67,
+  "rarity_rank": 2
+ },
+ {
+  "name": "Pixel Pal #40",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/40.png",
+  "edition": 40,
+  "dna": "b9837a6486c383722beab7dbcb2f554174170ead",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Flower Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 38.28,
+  "rarity_rank": 42
+ },
+ {
+  "name": "Pixel Pal #41",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/41.png",
+  "edition": 41,
+  "dna": "fc7091b9d47931a279ae2a092cf864144c038540",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wide"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Glasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Flower Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Lollipop"
+   }
+  ],
+  "rarity_score": 61.89,
+  "rarity_rank": 9
+ },
+ {
+  "name": "Pixel Pal #42",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/42.png",
+  "edition": 42,
+  "dna": "f4fbe9df66fc5690547b0af1e63374666e49b27c",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Overalls"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Sleepy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Sunglasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Star Wand"
+   }
+  ],
+  "rarity_score": 63.4,
+  "rarity_rank": 7
+ },
+ {
+  "name": "Pixel Pal #43",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/43.png",
+  "edition": 43,
+  "dna": "42e553f23c53cc4db5734f109303117d3bd3a1a3",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Blue"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Freckles"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 43.03,
+  "rarity_rank": 32
+ },
+ {
+  "name": "Pixel Pal #44",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/44.png",
+  "edition": 44,
+  "dna": "d05572f0ea987f09fa48b5c25af710eeb27b7c88",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Sky"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Blue"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Flower Crown"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Book"
+   }
+  ],
+  "rarity_score": 44.23,
+  "rarity_rank": 28
+ },
+ {
+  "name": "Pixel Pal #45",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/45.png",
+  "edition": 45,
+  "dna": "15378ce8f63a10ebdf684421c7f3fa619f3ecd71",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Night"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Gold"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Red"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Flat"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Dot"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Blush"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Book"
+   }
+  ],
+  "rarity_score": 129.4,
+  "rarity_rank": 1
+ },
+ {
+  "name": "Pixel Pal #46",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/46.png",
+  "edition": 46,
+  "dna": "7819f8776b72b09793df297872a61a05a90a498c",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Peach"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Pink"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Hoodie"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "None"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 38.04,
+  "rarity_rank": 43
+ },
+ {
+  "name": "Pixel Pal #47",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/47.png",
+  "edition": 47,
+  "dna": "563b650dccb45ff106bc3eb713b69c3d49445b95",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tuxedo"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Open"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wide"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Freckles"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Flower"
+   }
+  ],
+  "rarity_score": 92.38,
+  "rarity_rank": 4
+ },
+ {
+  "name": "Pixel Pal #48",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/48.png",
+  "edition": 48,
+  "dna": "89ad142cd718cfee83ed40f3a8c2e5bc40b17e18",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Honey"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Scarf"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Glasses"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "Balloon"
+   }
+  ],
+  "rarity_score": 42.78,
+  "rarity_rank": 33
+ },
+ {
+  "name": "Pixel Pal #49",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/49.png",
+  "edition": 49,
+  "dna": "eaa1b12852efeab58a855061793a669994e9822e",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Lilac"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Cream"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Overalls"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Smile"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Happy"
+   },
+   {
+    "trait_type": "Face",
+    "value": "None"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Party Hat"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 42.45,
+  "rarity_rank": 34
+ },
+ {
+  "name": "Pixel Pal #50",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/50.png",
+  "edition": 50,
+  "dna": "fa70b6632ea5ab18549fb029d46da8fb1d971ffb",
+  "attributes": [
+   {
+    "trait_type": "Background",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Body",
+    "value": "Mint"
+   },
+   {
+    "trait_type": "Clothes",
+    "value": "Tee Green"
+   },
+   {
+    "trait_type": "Mouth",
+    "value": "Tongue"
+   },
+   {
+    "trait_type": "Eyes",
+    "value": "Wink"
+   },
+   {
+    "trait_type": "Face",
+    "value": "Bandage"
+   },
+   {
+    "trait_type": "Head",
+    "value": "Beanie"
+   },
+   {
+    "trait_type": "Items",
+    "value": "None"
+   }
+  ],
+  "rarity_score": 62.28,
+  "rarity_rank": 8
+ }
+]

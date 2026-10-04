@@ -1,0 +1,43 @@
+{
+  "name": "Pixel Pal #13",
+  "description": "Pixel Pals - a demo generative collection built to show the layering, rarity and rules pipeline.",
+  "image": "images/13.png",
+  "edition": 13,
+  "dna": "0fe2df09d548a3a17149c242ac7f85988aa0ea12",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tee Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Star Wand"
+    }
+  ],
+  "rarity_score": 48.39,
+  "rarity_rank": 22
+}
